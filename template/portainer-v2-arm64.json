@@ -1752,6 +1752,7 @@
 			"logo": "https://raw.githubusercontent.com/novaspirit/pi-hosted/master/images/homeassistant.png",
 			"name": "home assistant",
 			"platform": "linux",
+			"privileged": true,
 			"ports": [
 				"8999:8123/tcp"
 			],
