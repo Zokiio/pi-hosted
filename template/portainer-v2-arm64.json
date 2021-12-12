@@ -1744,6 +1744,9 @@
 			]
 		},
 		{
+			"categories": [
+				"HomeAutomation"
+			],
 			"description": "Home Assistant is a free and open-source software for home automation that is designed to be the central control system for smart home devices with focus on local control and privacy.",
 			"image": "homeassistant/home-assistant:latest",
 			"logo": "https://raw.githubusercontent.com/novaspirit/pi-hosted/master/images/homeassistant.png",
