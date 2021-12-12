@@ -1805,7 +1805,7 @@
 					"name": "TZ"
 				}
 			],
-			"image": "oznu/homebridge:latest",
+			"image": "ghcr.io/home-assistant/raspberrypi3-homeassistant:stable",
 			"logo": "https://raw.githubusercontent.com/novaspirit/pi-hosted/master/images/homebridge.png",
 			"name": "homebridge",
 			"network": "host",
